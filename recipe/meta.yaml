@@ -13,7 +13,7 @@ build:
   entry_points:
     - bob_dbmanage.py = bob.db.base.script.dbmanage:main
   number: 1
-  skip: true  # [not linux]
+  skip: true  # [win]
   script: python -B setup.py install --single-version-externally-managed --record record.txt
 
 requirements:

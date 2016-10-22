@@ -1,4 +1,4 @@
-{% set version = "2.1.0" %}
+{% set version = "2.1.2" %}
 
 package:
   name: bob.db.base
@@ -7,7 +7,7 @@ package:
 source:
   fn: bob.db.base-{{ version }}.zip
   url: https://pypi.io/packages/source/b/bob.db.base/bob.db.base-{{ version }}.zip
-  md5: 4a26cf285c71dda63f1fbd1889996de1
+  md5: 485f11556b405bc537a95dc51b457439
 
 build:
   entry_points:

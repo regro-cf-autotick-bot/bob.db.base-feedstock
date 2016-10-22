@@ -23,12 +23,14 @@ requirements:
     - bob.extension
     - bob.io.base
     - sqlalchemy
+    - six
 
   run:
     - python
     - bob.extension
     - bob.io.base
     - sqlalchemy
+    - six
 
 test:
   commands:

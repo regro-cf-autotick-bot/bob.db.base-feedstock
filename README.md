@@ -33,7 +33,6 @@ conda search bob.db.base --channel conda-forge
 ```
 
 
-
 About conda-forge
 =================
 

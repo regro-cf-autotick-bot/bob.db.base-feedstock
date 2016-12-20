@@ -3,7 +3,7 @@ About bob.db.base
 
 Home: https://www.idiap.ch/software/bob/
 
-Package license: Modified BSD License (3-clause)
+Package license: Modified BSD (3-clause)
 
 Feedstock license: BSD 3-Clause
 
